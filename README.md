@@ -64,7 +64,7 @@ You can install the **D**otnet **T**emplate **G**enerator from visual studio Mar
     - ASP.NET Core with React.js and Redux
     - ASP.NET Core Web API
    
-[![adsfdsf](./Media/newProject.gif)]
+[![adsfdsf](./Media/newProject.gif)](https://raw.githubusercontent.com/bhanusaisv/testreadme/master/Media/newProject.gif)
 ---
 
 - #### Add Reference
